@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-kanban/static/css/main.d8c099a2.css",
+    "main.js": "/React-kanban/static/js/main.d9ed8540.js",
+    "static/media/trash.svg": "/React-kanban/static/media/trash.c0e8ef42fa81cd02ae27.svg",
+    "index.html": "/React-kanban/index.html",
+    "main.d8c099a2.css.map": "/React-kanban/static/css/main.d8c099a2.css.map",
+    "main.d9ed8540.js.map": "/React-kanban/static/js/main.d9ed8540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c099a2.css",
+    "static/js/main.d9ed8540.js"
+  ]
+}
